@@ -62,7 +62,7 @@ input[type='radio'] {border-radius:50%;}
 input[type='radio']:after {width:19px;height:19px;border-radius:50%;background:var(--active-inner);opacity:0;-webkit-transform:scale(0.7);transform:scale(0.7);}
 input[type='radio']:checked:after {background:var(--active-inner);-webkit-transform:scale(0.5);transform:scale(0.5);}
 }
-.boxmoe-opt-header {background:url(../images/page_bg.jpg) no-repeat 0 -300px;padding:40px 30px;background-size:cover;border-radius:6px;}
+.boxmoe-opt-header {background:url(https://cdn.jsdelivr.net/gh/baomihuahua/assets@latest/wp_options/images/page_bsss.jpg) no-repeat;padding:40px 30px;background-size:cover;border-radius:6px;}
 @media (max-width:767px) {.boxmoe-opt-header {padding:10px 30px;background-size:auto;}
 }
 .boxmoe-opt-header h2 {font-size:25px;line-height:30px;color:#fff;}
